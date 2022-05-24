@@ -1,0 +1,1058 @@
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+int v; Ref(int) a; v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+int v
+Ref(int) a; v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+int v
+Ref(int) a; v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+Ref(int) a; v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+Ref(int) a; v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+Ref(int) a
+v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+Ref(int) a
+v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+v=10; new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+v=10
+new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+v=10
+new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+new(a,22); fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+new(a,22)
+fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+new(a,22)
+fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (0, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+fork(writeHeap(a,30); v=32; print(v); print(readHeap(a))); print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+fork(writeHeap(a,30); v=32; print(v); print(readHeap(a)))
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+fork(writeHeap(a,30); v=32; print(v); print(readHeap(a)))
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+writeHeap(a,30); v=32; print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+writeHeap(a,30); v=32; print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+print(v)
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+writeHeap(a,30)
+v=32; print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+print(v)
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+writeHeap(a,30)
+v=32; print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 22
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+v=32; print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+v=32; print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+v=32
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+v=32
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 10
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+print(v); print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+print(v)
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+print(v)
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+32
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+print(readHeap(a))
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+32
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+32
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+no operation
+
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+32
+30
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 11 ---------
+ --------Execution Stack-------- 
+
+ -------- Symbol  Table -------- 
+a -> (1, int)
+v -> 32
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+1 -> 30
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+10
+30
+32
+30
+
+ ------------------------------- 
+
+
+

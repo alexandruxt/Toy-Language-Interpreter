@@ -1,0 +1,126 @@
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+int v; v=2; print(v)
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+int v
+v=2; print(v)
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+int v
+v=2; print(v)
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+v=2; print(v)
+no operation
+
+
+ -------- Symbol  Table -------- 
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+v=2; print(v)
+no operation
+
+
+ -------- Symbol  Table -------- 
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+v=2
+print(v)
+no operation
+
+
+ -------- Symbol  Table -------- 
+v -> 0
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ --------  Latch  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+

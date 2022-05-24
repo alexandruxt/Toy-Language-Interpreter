@@ -1,0 +1,37 @@
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+Ref(int) v; new(v,20); Ref(Ref(int)) a; new(a,v); print(readHeap(v)); print(readHeap(readHeap(a)))
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
+ProgramID: --------- 1 ---------
+ --------Execution Stack-------- 
+Ref(int) v
+new(v,20); Ref(Ref(int)) a; new(a,v); print(readHeap(v)); print(readHeap(readHeap(a)))
+no operation
+
+
+ -------- Symbol  Table -------- 
+
+ -------- File  Table -------- 
+
+ --------  Heap  Table  -------- 
+
+ -------- Output Console -------- 
+
+ ------------------------------- 
+
+
+
